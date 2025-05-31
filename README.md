@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game
+Calculator project
